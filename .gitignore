@@ -1,0 +1,6 @@
+node_modules
+yarn.lock
+
+src/database/database.sqlite
+!src/database/migrations
+!src/database/connection.ts
