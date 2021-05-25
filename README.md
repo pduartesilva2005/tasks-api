@@ -2,6 +2,10 @@
 
 ## Funcionalidades
 
+- Criar Tasks
+- Deletar Tasks
+- Finalizar Tasks
+
 ## Passos para rodar esse projeto
 
 1 - Rode o comando `yarn` ou `npm install` para instalar as dependências;
